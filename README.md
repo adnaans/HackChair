@@ -1,4 +1,6 @@
 # HackChair
+Forked from original repository that I worked on: https://github.com/kvfrans/HackChair
+
 The Hack Chair is a creative analytical tool that is built from a chair. We used an ordinary plastic chair, cardboard, duct tape, 2 iPhones, a muse headband, and empty nacho boxes.
 
 First, the Hack Chair uses an iPhone's gyroscope to detect how far back a chair is titled. This is useful to keep the students safe. Of the 7,000 schoolchildren admitted to hospital each year as a result of chair-related accidents, 70% were rocking back dangerously, according to the analysis of government statistics by a south London teacher. By measuring when the user reaches a tilting hazard, we give an immediate notification that also suggests other alternative chairs. This feature used the Target API.
